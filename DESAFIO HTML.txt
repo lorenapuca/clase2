@@ -1,0 +1,20 @@
+ Este desafío consiste en entregar 2 archivos, emulando las imágenes adjuntas (utilizando los correspondientes elementos html y la temática de noticia que se desee).
+ La idea es hacer 2 artículos de noticias con ciertos elementos html: 
+-Artículo 1: 
+-nombre del archivo: index.html. 
+-Título 
+-Subtítulo 
+-Párrafo 
+-Link al artículo 2 
+-Link a la noticia real del diario 
+-Artículo 2: 
+-nombre del archivo: articulo.html 
+-Título 
+-Subtítulo 
+-Párrafo 
+-Link al artículo 1 
+-Link a la noticia real del diario 
+-Imagen 
+
+-Insertar la noticia real 
+Entregar el link de github del repositorio
